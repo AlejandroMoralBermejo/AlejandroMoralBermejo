@@ -17,18 +17,11 @@ Mi enfoque se centra en la escritura de código limpio y mantenible, siguiendo l
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de programación:** Java, Python  
+- **Lenguajes de programación:** Java, Python, Typescript
 - **Frameworks:** Spring Boot, Django, NestJS  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Herramientas y tecnologías:** Git, Docker, Swagger, RESTful APIs  
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
+- **Herramientas y tecnologías:** Git, Docker, Swagger, RESTful APIs  , Kubernetes
 - **Metodologías:** SCRUM, Agile
-
----
-
-## 📚 Educación
-
-**Aula de Software Libre FP Córdoba**  
-Participación activa en proyectos colaborativos, incluyendo la toma de requisitos y desarrollo de aplicaciones en entornos simulados.
 
 ---
 
